@@ -1,0 +1,12 @@
+
+Classification Report:
+              precision    recall  f1-score   support
+
+      Speech       0.87      0.96      0.92    116416
+       Cough       0.65      0.80      0.72     45231
+  Non-Verbal       0.48      0.62      0.54     26331
+       Other       0.98      0.92      0.95    484225
+
+    accuracy                           0.91    672203
+   macro avg       0.75      0.83      0.78    672203
+weighted avg       0.92      0.91      0.91    672203
